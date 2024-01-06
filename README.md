@@ -24,7 +24,7 @@ Exec: python3 androfiles.py
 
 Utilização: 
 - O script solicitará a extensão dos arquivos que você deseja copiar.
-- Insira o caminho completo da pasta de destino ou pressione Enter para usar o diretório do script.
+- Insira o caminho completo da pasta de destino onde quer que salve os arquivos ou pressione Enter para usar o diretório do script.
 - Conecte o dispositivo Android ao PC.
 - O script copiará os arquivos do dispositivo Android para a pasta de destino local, organizando-os em subpastas com base na pasta de origem.
 ```
