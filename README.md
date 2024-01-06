@@ -1,10 +1,10 @@
 <h1 align="center">🔥Androfiles🔥
 Script Python para copiar arquivos do Android usando o ADB.</h1>
 <a></a>
-<p align="center"><img height="200" src="https://github.com/mrofcodyx/Androfiles/blob/main/files.jpeg"></p>
+<p align="center"><img height="200" src="https://i.imgur.com/BlsxqC8.jpg"></p>
 <h2>Demonstração:  https://www.youtube.com/watch?v=he6QEk0Gxvo</h2>
 
-<p align="center"><img height="400" src="https://github.com/mrofcodyx/Androfiles/blob/main/androfiles.jpeg"></p>
+<p align="center"><img height="400" src="https://i.imgur.com/wzhY4QE.jpg"></p>
 
 ## Instalação
 ```
