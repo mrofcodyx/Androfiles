@@ -1,15 +1,14 @@
 <h1 align="center">🔥Androfiles🔥
 Script Python para copiar arquivos do Android usando o ADB.</h1>
 <a></a>
-<p align="center"><img height="200" src="https://imgur.com/2iTBK1u.png"></p>
-<h2 align="center">Utilizando o poder da tecnologia AlienVaultOTX, a Alopra pode extrair URLs de maneira rápida.</h2>
-<h2>Demonstração</h2>
+<p align="center"><img height="200" src="https://github.com/mrofcodyx/Androfiles/blob/main/files.jpeg"></p>
+<h2>Demonstração:  https://www.youtube.com/watch?v=he6QEk0Gxvo</h2>
 
-<p align="center"><img height="400" src=""></p>
+<p align="center"><img height="400" src="https://github.com/mrofcodyx/Androfiles/blob/main/androfiles.jpeg"></p>
 
 ## Instalação
 ```
-$ git clone https://github.com/mrofcodyx/Androfiles
+$ git clone https://github.com/mrofcodyx/Androfiles.git
 $ cd Androfiles
 $ chmod +x install.sh
 $ sudo ./install.sh
